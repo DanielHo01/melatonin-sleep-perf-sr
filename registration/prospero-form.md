@@ -1,7 +1,5 @@
 # PROSPERO 注册填报表
 
-> 本文件由 `workflows/review/output/registration.py` 生成，**不要手改**。
-> 正文真源：`protocol/registration.yaml`；改文案改那里，然后重跑命令。
 > 项目：`melatonin-sleep-perf`　起草：2026-10-19　字段数：40（必填 26）
 
 ## ★ 只能由登记者本人做的两项
