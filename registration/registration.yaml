@@ -1,6 +1,6 @@
 # 注册内容单一真源（registration single source of truth）
 #
-# 用途：`workflows/review/output/registration.py` 读本文件 + 项目产物 → `output/prospero-form.md`
+# 用途：注册填报表的单一真源；按 PROSPERO 字段号组织，逐字段可直接粘贴。
 #       （逐字段可直接粘贴的英文文本）。
 # 规则：改注册文本只改本文件，不改产物。产物每次重算。
 #
